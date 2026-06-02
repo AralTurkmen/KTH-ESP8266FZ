@@ -7,7 +7,7 @@ Demo code is also available for users to get a first insight into its capabiliti
 # Programming Preparations
 
 - Install CH340 Driver:
--   Windows: https://github.com/wemos/ch340_driver/raw/master/CH341SER_WIN_3.5.ZIP
--   MAC: https://github.com/wemos/ch340_driver/raw/master/CH341SER_MAC_1.5.ZIP
+  -  Windows: https://github.com/wemos/ch340_driver/raw/master/CH341SER_WIN_3.5.ZIP
+  - MAC: https://github.com/wemos/ch340_driver/raw/master/CH341SER_MAC_1.5.ZIP
 - Install Arduino IDE: https://www.arduino.cc/en/software/#ide
--   Change board manager link to: https://arduino.esp8266.com/stable/package_esp8266com_index.json
+  - Change board manager link to: https://arduino.esp8266.com/stable/package_esp8266com_index.json
